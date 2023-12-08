@@ -1,0 +1,14 @@
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\bin\Debug\net8.0\LessonOne.exe
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\bin\Debug\net8.0\LessonOne.deps.json
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\bin\Debug\net8.0\LessonOne.runtimeconfig.json
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\bin\Debug\net8.0\LessonOne.dll
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\bin\Debug\net8.0\LessonOne.pdb
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\obj\Debug\net8.0\LessonOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\obj\Debug\net8.0\LessonOne.AssemblyInfoInputs.cache
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\obj\Debug\net8.0\LessonOne.AssemblyInfo.cs
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\obj\Debug\net8.0\LessonOne.csproj.CoreCompileInputs.cache
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\obj\Debug\net8.0\LessonOne.dll
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\obj\Debug\net8.0\refint\LessonOne.dll
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\obj\Debug\net8.0\LessonOne.pdb
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\obj\Debug\net8.0\LessonOne.genruntimeconfig.cache
+D:\GeekBrines\С#Advance\Seminar\LessonOne\TaskOne\ConsoleApp1\obj\Debug\net8.0\ref\LessonOne.dll
